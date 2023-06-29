@@ -1,5 +1,7 @@
 👋 Hi, I’m @Jojo-Paris
 
-I am currently a third year computer science student at California State University Long Beach. My hobbies include playing basketball, investing, and watching sports. 
+Currently a fourth-year computer science student at California State University Long Beach. 
 
-Insta: Jojo.Paris
+Highly motivated software engineer seeking new opportunities to utilize my coding skills in the creation of meaningful software applications.
+
+Production-level experience with Python, SQL, Java, and Test Automation...
