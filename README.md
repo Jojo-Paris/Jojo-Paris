@@ -5,7 +5,7 @@
 </h1>
    
 <p align="center">
-  Hi, I'm Jodeci (Jojo) Paris, a highly motivated software engineer seeking new opportunities to utilize my coding skills in the creation of meaningful software applications!
+  Hi, I'm Jodeci (Jojo) Paris, a highly motivated data engineer/software engineer seeking new opportunities to utilize my coding skills in the creation of meaningful software applications!
   <br>
   <br>
   👨‍🎓 I'm currently studying for a Bachelor's degree in Computer Science at Long Beach State University!
