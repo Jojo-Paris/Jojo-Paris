@@ -12,7 +12,7 @@
   <br>
   💻 I love Writing code and being able to make an impact on people around the world!
   <br>
-  📚 I’m currently focusing on creating an application to teach people how to operate within the stock market without real money!
+  📚 I’m currently focusing on creating an End-to-End Data pipeline in Python utilizing AWS S3, AWS RDS Postgresql, PySpark, and Pandas to scrape data off of the NBA official stats website from any year or any season! 
   <br>
   📫 How to reach me 👇
 </p>
